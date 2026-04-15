@@ -1,0 +1,12 @@
+services:
+  bot:
+    build: .
+    container_name: mistral_telegram_bot
+    restart: always
+    env_file:
+      - .env
+    volumes:
+      - whisper_models:/root/.cache/huggingface
+
+volumes:
+  whisper_models:
