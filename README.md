@@ -24,8 +24,6 @@
 |-------------|-------------------|------------------|
 | ![Чат с ботом](https://github.com/user-attachments/assets/2b817cb5-1bad-43dd-9fd6-bf96562c3507) | ![Генерация картинки](https://github.com/user-attachments/assets/75a762a7-1a0e-4061-88b8-c59b160e3065) | ![Поиск информации](https://github.com/user-attachments/assets/4f6dcb9f-155a-4fab-8bbe-561d6859b638) |
 
-> *Скриншоты можно добавить позже в папку `screenshots/`*
-
 ---
 
 ## 🚀 Быстрый старт
